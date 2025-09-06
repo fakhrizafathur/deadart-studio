@@ -1,0 +1,130 @@
+export const portfolioItems = [
+  {
+    id: 1,
+    title: "Artwork Be Yourself - Bertarung Bercinta dan Bersulang",
+    image: "/src/assets/images/bys.jpg",
+    category: "Artwork Band",
+  },
+  {
+    id: 2,
+    title: "T-Shirt Comrades Brebes - Libertas Libertas Liberation",
+    image: "/src/assets/images/comrades-brebes.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 3,
+    title: "Comrades Brebes Volume 1",
+    image: "/src/assets/images/comrades-brebes-2.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 4,
+    title: "Comrades Brebes Volume 2",
+    image: "/src/assets/images/comrades-brebes-3.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 5,
+    title: "T-Shirt Comrades Madiun",
+    image: "/src/assets/images/comrades-madiun.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 6,
+    title: "Comrades Madiun",
+    image: "/src/assets/images/comrades-madiun-2.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 7,
+    title: "Comrades Pemalang Volume 1",
+    image: "/src/assets/images/comrades-pemalang.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 8,
+    title: "Comrades Pemalang Volume 2",
+    image: "/src/assets/images/comrades-pemalang-2.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 9,
+    title: "Comrades Pesantren",
+    image: "/src/assets/images/comrades-pesantren.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 10,
+    title: "Comrades Tegal",
+    image: "/src/assets/images/comrades-tegal.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 11,
+    title: "Artwork Family of Bastard",
+    image: "/src/assets/images/family-of-bastrad.jpg",
+    category: "Artwork Band",
+  },
+  {
+    id: 12,
+    title: "T-Shirt Family of Bastard",
+    image: "/src/assets/images/fob.jpg",
+    category: "Artwork Band",
+  },
+  {
+    id: 13,
+    title: "Fosha Lampunk",
+    image: "/src/assets/images/fosha-lampunk.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 14,
+    title: "Outsiders Cirebon",
+    image: "/src/assets/images/outsiders-cirebon.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 15,
+    title: "Outsiders Cirebon Volume 2",
+    image: "/src/assets/images/outsiders-cirebon-2.jpg",
+    category: "Komunitas",
+  },
+  {
+    id: 16,
+    title: "Artwork Redemption Punkrock",
+    image: "/src/assets/images/redemption.jpg",
+    category: "Artwork Band",
+  },
+  {
+    id: 17,
+    title: "Artwork Rock N Roll Weekend - Aku Kamu & Alcohol",
+    image: "/src/assets/images/rock-n-roll.jpg",
+    category: "Artwork Band",
+  },
+  {
+    id: 18,
+    title: "Artwork Springbad",
+    image: "/src/assets/images/springbad.jpg",
+    category: "Artwork Band",
+  },
+  {
+    id: 19,
+    title: "Cover Lagu Springbad",
+    image: "/src/assets/images/springbad-2.png",
+    category: "Artwork Band",
+  },
+  {
+    id: 20,
+    title: "Artwork Sudut Timur - Cinta yang Indah",
+    image: "/src/assets/images/sudut-timur.jpg",
+    category: "Artwork Band",
+  },
+  {
+    id: 21,
+    title: "Artwork Sudut Timur - Sederhana",
+    image: "/src/assets/images/sudut-timur-2.jpg",
+    category: "Artwork Band",
+  },
+];
+
+export const categories = ["All", "Artwork Band", "Komunitas"];
