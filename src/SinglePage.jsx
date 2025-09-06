@@ -52,7 +52,7 @@ const SinglePage = () => {
       {/* Header Section - Full width */}
       <div className="header-section text-center">
         <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ duration: 0.5 }}>
-          <img src={import.meta.env.BASE_URL + "images/logo.png"} alt="Deadart Studio Logo" className="studio-logo" />
+          <img src={import.meta.env.BASE_URL + "/images/logo.png"} alt="Deadart Studio Logo" className="studio-logo" />
         </motion.div>
         <motion.h1 className="studio-title" initial={{ y: -50, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.2 }}>
           Deadart Studio
