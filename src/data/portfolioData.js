@@ -98,7 +98,7 @@ export const portfolioItems = [
   {
     id: 17,
     title: "Artwork Rock N Roll Weekend - Aku Kamu & Alcohol",
-    image: import.meta.env.BASE_URL + "/rock-n-roll.jpg",
+    image: import.meta.env.BASE_URL + "/images/rock-n-roll.jpg",
     category: "Artwork Band",
   },
   {
